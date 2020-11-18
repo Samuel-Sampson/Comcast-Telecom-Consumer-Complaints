@@ -5,6 +5,6 @@ Business Scenario: Comcast is an American global telecommunication company. The 
 This project is a part of the Simplilearn Data Science Master's Program
 
 This Repository includes:
-1) CSV file of Customer Complaint Data
-2) Jupyter Notebook with the source code
-3) A PDF write-up of the analysis
+1) Jupyter Notebook with the source code
+2) A PDF write-up of the analysis
+3) CSV file of Customer Complaint Data
